@@ -1,4 +1,4 @@
-# C# Basico
+# C# Básico
 Atividades realizadas durante o curso "Linguagem de programação C# - Básico"
 
 ## Seção 1
