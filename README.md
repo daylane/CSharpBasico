@@ -10,5 +10,11 @@ Atividades realizadas durante o curso "Linguagem de programação C# - Básico"
 
 - O que é uma Variável? ✓
 - Tipos Primitivos - Byte e SByte ✓
-- Tipos Primitivos - Short, Int e Long
-- Tipos Primitivos - UShort, UInte e ULong
+- Tipos Primitivos - Short, Int e Long ✓
+- Tipos Primitivos - UShort, UInte e ULong ✓
+- Tipos Primitivos - Float, Double e Decimal 
+- Tipos Primitivos - Char e String
+- Tipos Primitivos - Boolean e Object
+- Tipos Primitivos - Constante
+- Tipos Primitivos - Numéricos - Conceito
+
