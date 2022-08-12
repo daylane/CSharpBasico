@@ -1,12 +1,12 @@
 # C# Básico
 Atividades realizadas durante o curso "Linguagem de programação C# - Básico"
 
-## Seção 1 - Introdução ao Curso
+## Seção 1: Introdução ao Curso
 
 - Apresentação do Curso ✓
 - Apresentação do Ambiente de Desenvolvimento "Visual Studio" ✓
 
-## Seção 2 - Estudo Sobre Variáveis
+## Seção 2: Estudo Sobre Variáveis
 
 - O que é uma Variável? ✓
 - Tipos Primitivos - Byte e SByte ✓
@@ -22,7 +22,7 @@ Atividades realizadas durante o curso "Linguagem de programação C# - Básico"
 - Introdução ao Array ✓
 - Entrada e Saída de dados - Classe - Console ✓
 
-## Seção 3 - POO - Básico
+## Seção 3: POO - Básico
 
 - Conceito de POO
 - Criação de Classe
