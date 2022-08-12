@@ -1,0 +1,14 @@
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\bin\Debug\netcoreapp3.1\9_IntroducaoArray.exe
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\bin\Debug\netcoreapp3.1\9_IntroducaoArray.deps.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\bin\Debug\netcoreapp3.1\9_IntroducaoArray.runtimeconfig.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\bin\Debug\netcoreapp3.1\9_IntroducaoArray.runtimeconfig.dev.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\bin\Debug\netcoreapp3.1\9_IntroducaoArray.dll
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\bin\Debug\netcoreapp3.1\9_IntroducaoArray.pdb
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\obj\Debug\netcoreapp3.1\9_IntroducaoArray.csproj.AssemblyReference.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\obj\Debug\netcoreapp3.1\9_IntroducaoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\obj\Debug\netcoreapp3.1\9_IntroducaoArray.AssemblyInfoInputs.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\obj\Debug\netcoreapp3.1\9_IntroducaoArray.AssemblyInfo.cs
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\obj\Debug\netcoreapp3.1\9_IntroducaoArray.csproj.CoreCompileInputs.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\obj\Debug\netcoreapp3.1\9_IntroducaoArray.dll
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\obj\Debug\netcoreapp3.1\9_IntroducaoArray.pdb
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\9_IntroducaoArray\obj\Debug\netcoreapp3.1\9_IntroducaoArray.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteeSbyte.exe
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteeSbyte.deps.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteeSbyte.runtimeconfig.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteeSbyte.runtimeconfig.dev.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteeSbyte.dll
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteeSbyte.pdb
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteeSbyte.csproj.AssemblyReference.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteeSbyte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteeSbyte.AssemblyInfoInputs.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteeSbyte.AssemblyInfo.cs
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteeSbyte.csproj.CoreCompileInputs.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteeSbyte.dll
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteeSbyte.pdb
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteeSbyte.genruntimeconfig.cache

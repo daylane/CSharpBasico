@@ -1,0 +1,13 @@
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\bin\Debug\netcoreapp3.1\04_VariavelChareString.exe
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\bin\Debug\netcoreapp3.1\04_VariavelChareString.deps.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\bin\Debug\netcoreapp3.1\04_VariavelChareString.runtimeconfig.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\bin\Debug\netcoreapp3.1\04_VariavelChareString.runtimeconfig.dev.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\bin\Debug\netcoreapp3.1\04_VariavelChareString.dll
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\bin\Debug\netcoreapp3.1\04_VariavelChareString.pdb
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\obj\Debug\netcoreapp3.1\04_VariavelChareString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\obj\Debug\netcoreapp3.1\04_VariavelChareString.AssemblyInfoInputs.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\obj\Debug\netcoreapp3.1\04_VariavelChareString.AssemblyInfo.cs
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\obj\Debug\netcoreapp3.1\04_VariavelChareString.csproj.CoreCompileInputs.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\obj\Debug\netcoreapp3.1\04_VariavelChareString.dll
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\obj\Debug\netcoreapp3.1\04_VariavelChareString.pdb
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\04_VariavelChareString\obj\Debug\netcoreapp3.1\04_VariavelChareString.genruntimeconfig.cache

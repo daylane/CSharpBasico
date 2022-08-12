@@ -1,0 +1,13 @@
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\bin\Debug\netcoreapp3.1\06_Constante.exe
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\bin\Debug\netcoreapp3.1\06_Constante.deps.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\bin\Debug\netcoreapp3.1\06_Constante.runtimeconfig.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\bin\Debug\netcoreapp3.1\06_Constante.runtimeconfig.dev.json
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\bin\Debug\netcoreapp3.1\06_Constante.dll
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\bin\Debug\netcoreapp3.1\06_Constante.pdb
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\obj\Debug\netcoreapp3.1\06_Constante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\obj\Debug\netcoreapp3.1\06_Constante.AssemblyInfoInputs.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\obj\Debug\netcoreapp3.1\06_Constante.AssemblyInfo.cs
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\obj\Debug\netcoreapp3.1\06_Constante.csproj.CoreCompileInputs.cache
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\obj\Debug\netcoreapp3.1\06_Constante.dll
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\obj\Debug\netcoreapp3.1\06_Constante.pdb
+C:\Users\daylanesilva\Desktop\Seção2\01_Variavel\06_Constante\obj\Debug\netcoreapp3.1\06_Constante.genruntimeconfig.cache
