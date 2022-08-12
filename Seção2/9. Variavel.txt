@@ -1,0 +1,15 @@
+O que é uma Variável?
+
+Variável e constantes são espaços reservados na memória RAM. Podendo ter valores de diversos tamanhos e tipos, tais como números inteiros, números reais, caracteres, frases e etc.
+
+Exemplo:
+
+Memoria ram seria uma prateleira, vazia.
+Podendo colocar objetos em cima dele, onde armazenaria diversos objetos diferentes.
+
+Sintaxe do C#:
+
+Tipo NomeDaVariavel;
+
+Tipo = O tipo de informação que será armazenada.
+NomeDaVariavel =  O nome que a variavel terá.
